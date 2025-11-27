@@ -1,0 +1,287 @@
+ĐỀ CƯƠNG QUẢN TRỊ NHÀ HÀNG CHƯƠNG 5
+Câu 1: Nêu khái niệm và phân tích các bước lập kế hoạch và giám sát khu vực nhà hàng?
+LẬP KẾ HOẠCH KHU VỰC NHÀ HÀNG
+	Khái niệm kế hoạch phục vụ nhà hàng: Kế hoạch phục vụ là một lịch trình chi tiết những việc cần làm và phương pháp thực hiện những việc đó để đạt mục tiêu của nhà hàng
+	Nội dung kế hoạch phục vụ: 
+	- Dự báo nhu cầu
+	- Lập kế hoạch thực đơn
+	- Lập lịch trình phục vụ
+	- Lập kế hoạch về nguồn lực phục vụ
+	A. Dự báo nhu cầu
+	Căn cứ: 
+	- Dự báo buồng
+	- Đối tượng khách, nhu cầu và tập quán ăn uống của khách
+	- Dữ liệu về lượng khách cùng kỳ trước, sự kiện, mùa vụ; dự báo thị trường khách và xu hướng ẩm thực
+	Chỉ tiêu cơ bản cần xác định:
+	- Đối tượng khách gồm khách nội địa, khách quốc tế
+	- Số lượt khách/ngày/bữa
+	- Thời gian ăn uống
+	- Hệ số sử dụng chỗ ngồi
+	- Thực đơn, tiêu chuẩn suất ăn, món ăn, đồ uống, giá bán, chi tiêu bình quân mỗi khách
+	- Hình thức phục vụ
+	- Các yêu cầu khác
+	B. Lập kế hoạch thực đơn
+	1. Lựa chọn món ăn trong thực đơn của nhà hàng
+Căn cứ
+1. Nhu cầu và sở thích của thị trường khách hàng mục tiêu
+2. Trình độ tay nghề của đội ngũ nhân viên bếp
+3. Công suất các loại máy móc, thiết bị trong bếp
+4. Mục tiêu lợi nhuận và chính sách giá của nhà hàng tại mỗi thời điểm
+5. Khả năng phục vụ tối ưu của nhà hàng
+6. Yêu cầu về chế độ dinh dưỡng trong các bữa ăn
+Yêu cầu
+1. Phong phú để khách hàng có nhiều lựa chọn
+2. Phù hợp với khẩu vị và xu hướng của thị trường
+3. Phù hợp với quy mô và loại hình nhà hàng
+4. Chi phí các món ăn phải tương xứng với khả năng thanh toán của khách hàng mục tiêu
+
+
+
+
+
+	2. Xác định giá món ăn trong thực đơn của nhà hàng
+Căn cứ
+1. Chi phí thực phẩm
+2. Tỉ lệ lãi mong muốn của nhà hàng
+3. Mức độ cạnh tranh trên thị trường của sản phẩm
+4. Chất lượng của sản phẩm
+5. Uy tín và danh tiếng của nhà hàng
+6. Vị trí địa lý của nhà hàng
+Yêu cầu
+1. Người quản lý phải nắm được khối lượng thực phẩm đưa vào từng món ăn, phần tram các thành phần trong món ăn
+2. Cần cân bằng thực đơn nhằm ổn định giá bán và lợi nhuận của nhà hàng 
+         
+Cách xác định giá món ăn:  Chi phí thực phẩm cho từng món = 30-35% giá bán món ăn
+	Thiết kế và trình bày thực đơn: 
+	- Nhà quản lý lựa chọn hình thức, kiểu chữ. Bìa, kích thức, giấy, đồ họa, đề mục, ngôn ngữ sử dụng phù hợp để thiết kế và trình bày thực đơn
+	- Nên đặt các món ăn có lợi nhuận cao nhất trong thực đơn ở khu vực chính; tinh gọn một số món ăn mỗi danh mục thực đơn (nên ít hơn 7)l tạo sự chú ý bằng phông chữ, hình ảnh
+C. LẬP LỊCH TRÌNH PHỤC VỤ
+	Khái niệm lập lịch trình phục vụ: “Lập lịch trình phục vụ là quá trình vạch ra một cách có hệ thống những công việc cần tiến hành cụ thể, khả thi theo đúng chuẩn mực và phân bổ quỹ thời gian cụ thể trong quá trình phục vụ khách tại khu vực nhà hàng nhằm phối hợp tốt nhất các nguồn lực và đem lại hiệu quả”
+	Lập lịch trình gồm những công việc: 
+	- Chuẩn bị nhà hàng
+	- Chuẩn bị dụng cụ, đặt dụng cụ
+	- Đón dẫn khách
+	- Nhận yêu cầu của khách
+	- Chuyển yêu cầu đến bộ phận chế biến
+	- Phục vụ khách hàng
+	- Thanh toán
+	- Tiễn khách
+	- Thu dọn
+	Yêu cầu: Nhà quản lý xác lập cách thức thực hiện công việc, xác định các vấn đề ưu tiên hay các hoạt động quan trọng, tận dụng tối đa các nguồn lực sẵn có
+D. LẬP KẾ HOẠCH VỀ NGUỒN LỰC PHỤC VỤ
+	1. Lập kế hoạch về cơ sở vật chất: 
+	- Kế hoạch chuẩn bị các khu vực tác nghiệp
+	- Kế hoạch chuẩn bị các trang thiết bị phục vụ, trang thiết bị nội thất
+	- Kế hoạch chuẩn bị các dụng cụ ăn uống
+	- Kế hoạch nguyên liệu, thực phẩm, đảm bảo vệ sinh an toàn thực phẩm
+	- Kế hoạch đầu tư vào hệ thống quản lý bán hàng
+	Yêu cầu: 
+	Đảm bảo số lượng, chất lượng và yêu cầu vệ sinh an toàn thực phẩm và có tính thẩm mỹ
+	Đảm bảo về diện tích, vệ sinh môi trường và các điều kiện vi khí hậu
+	2. Lập kế hoạch về lao động
+	- Kế hoạch bố trí lao động phục vụ đủ và đảm bảo yêu cầu về kiến thức, kỹ năng chuyên môn, ngoại ngữ và giao tiếp
+	- Kế hoạch bố trí lao động phải hợp lý, đúng người, đúng việc, đúng thời điểm theo kế hoạch phục vụ
+	- Kế hoạch thuê nhân viên part time
+	- Kế hoạch phân công nhiệm vụ trong ca cụ thể, rõ rang, phù hợp cho từng nhân viên
+	- Kế hoạch phối hợp với các bộ phận khác trong khách sạn, với các đối tác cung ứng dịch vụ
+GIÁM SÁT HOẠT ĐỘNG PHỤC VỤ TẠI KHU VỰC NHÀ HÀNG
+	Khái niệm giám sát hoạt động phục vụ: “Giám sát hoạt động phục vụ tại khu vực nhà hàng là những hành vi quan sát, theo dõi, kiểm tra, giám sát, trao đổi, hướng dẫn và hỗ trợ để nhân viên hoàn thành nhiệm vụ theo đúng quy trình phục vụ các bữa ăn thường và những quy định tại khu vực nhà hàng”
+A. GIÁM SÁT CÔNG TÁC CHUẨN BỊ ĂN UỐNG
+	Nhà quản lý kiểm tra công việc chuẩn bị phục vụ của nhân viên: 
+	- Kiểm tra về ngoại hình
+	- Kiểm tra phòng ăn và các phương tiện phục vụ
+	- Kiểm tra thực đơn, hàng hóa phục vụ
+	- Kiểm tra việc lựa chọn các kiểu đặt bàn và quy trình đặt bàn phù hợp
+	- Kiểm tra việc chuẩn bị dụng cụ đặt bàn theo thực đơn
+	- Kiểm tra thực hiện quy trình đặt bàn theo thực đơn và hiện trạng quy cách bộ dụng cụ
+	- Kiểm tra việc chuẩn bị dụng cụ chuyển xuống nhà bếp
+B. GIÁM SÁT PHỤC VỤ KHÁCH ĂN UỐNG
+	Nhà quản lý theo dõi, kiểm tra các yếu tố liên quan và quy trình phục vụ:
+	- Giám sát thực hiện đúng các quy trình
+	- Giám sát các hoạt động chuyên biệt trong quá trình phục vụ
+	- Giám sát quá trình thanh toán từ nhân viên thu ngân và nhân viên phục vụ
+	- Giám sát giao tiếp ứng xử của nhân viên với khách và sự phối hợp giữa các nhân viên trong quá trình phục vụ
+C. GIÁM SÁT QUÁ TRÌNH KẾT THÚC CA LÀM VIỆC CỦA KVNH
+	Nhà quản lý giám sát quá trình kết thúc ca làm việc: 
+	- Kiểm tra khu vực làm việc sạch sẽ và sắp xếp các thiết bị, dụng cụ, hàng hóa ngăn nắp
+	- Kiểm tra việc hoàn thành các báo cáo hành chính đảm bảo các thông tin đầy đủ và chính xác
+	- Tham gia thảo luận, bàn giao ca với đồng nghiệp và đề xuất các biện pháp cải tiến dịch vụ
+	- Xác định và phân tích các vấn đề trong quá trình phục vụ ăn uống
+	- Triển khai hành động khắc phục để giải quyết vấn đề trước mắt nếu cần thiết
+D. GIÁM SÁT THU CHI CỦA BỘ PHẬN DỊCH VỤ NHÀ HÀNG
+	Nhà quản lý giám sát việc thu, chi trong ca phục vụ, kiểm tra và lưu trữ tiền mặt mỗi ca: 
+	- Theo dõi việc thực hiện kế hoạch thu, chi của bộ phận
+	- Kiểm tra việc thanh toán hóa đơn dịch vụ ăn uống đúng quy trình, chính xác số tiền và xử lý các vấn đề tiền mặt
+	- Giám sát việc đối chiếu giấy tờ của hôm trước, kiểm tra bàn giao quỹ và sổ sách, chứng từ khi kết thúc ca
+	- Xem xét các hồ sơ, chứng từ lưu trữ, hóa đơn đỏ
+	- Kiểm tra tiền mặt có trong bộ phận
+	- Khuyến nghị những vấn đề cần giải quyết
+	- Xử lý các tình huống
+Câu 2: Phân tích các bước lập kế hoạch và giám sát của bộ phận Bar?
+	Nội dung kế hoạch của bộ phận Bar: 
+	- Dự báo nhu cầu
+	- Kế hoạch về sản phẩm và dịch vụ
+	- Lập lịch trình phục vụ
+	- Lập kế hoạch về cơ sở vật chất
+	- Lập kế hoạch về lao động
+LẬP KẾ HOẠCH KHU VỰC BAR
+A. DỰ BÁO NHU CẦU:
+	Căn cứ: 
+	- Thông tin khách lưu trú
+	- Thông tin về nhu cầu, xu hướng thưởng thức đồ uống
+	- Thông tin từ hệ thống quản lý đồ ăn và đồ uống
+	- Yếu tố, mùa vụ
+	- Dự báo thị trường khách và xu hướng ẩm thực
+	- Khả năng của các nguồn lực hiện có, những phản hồi của khách hàng và thông tin từ đối tác
+	- Những đổi mới trong chính sách, quy định của nhà nước về hoạt động kinh doanh dịch vụ ăn uống
+B. KẾ HOẠCH VỀ SẢN PHẨM VÀ DỊCH VỤ
+1. Kế hoạch thực đơn đồ uống: 
+	a. Yêu cầu về thiết kế:
+	- Phải dễ đọc, linh hoạt theo mùa
+	- Chia thành các phần hợp lý, có hình ảnh minh họa trang nhã
+	- Không quá dày đặc, sử dụng kiểu chữ mang đúng thương hiệu
+	- Không nhấn mạnh loại tiền tệ trong giá
+	- Tên món phải sáng tạo và mô tả ngon miệng để hấp dẫn khách hàng
+	b. Nội dung và tiêu chí lựa chọn:
+	- Lựa chọn đồ uống cơ bản tập trung vào loại hình bar
+	- Lựa chọn loại đồ uống phù hợp với khẩu vị, xu hướng của thị trường	
+	- Số lượng đồ uống phù hợp với mô hình bar
+	- Cần tạo menu đồ uống đa dạng, đặc sắc
+	- Sắp xếp đồ uống trong menu đảm bảo nhân viên và khách hàng khi nhìn vào có thể đọc hiểu dễ dàng
+	- Kết hợp món ăn kèm, sắp xếp combo bán cho quầy bar (VD rượu vang + phomai)
+	- Lựa chọn đồ uống cho menu phải đảm bảo có nguyên liệu và thực hiện đồ uống được
+	c. Thiết kế và trình bày
+	- Menu được thiết kế theo concept quầy bar
+	- Chú ý dùng từ, lựa chọn kiểu chữ, cỡ chữ, màu sắc, kiểu dáng và kích thước menu
+	- Trình bày menu dựa trên đặc điểm quen thuộc của tác phẩm nghệ thuật để khách hàng dễ nhận diện
+	- Quan tâm đến menu trực tuyến cho phép tương tác với nhiều thiết bị thông minh
+	d. Xác định giá bán cho thực đơn
+	- Dựa trên tất cả các khoản phí phát sinh như chi phí nguyên liệu, các chi phí cố định
+	- Chi phí và giá cho đồ uống phụ thuộc vào chi phí của nguyên vật liệu trung bình, số lượng đồ uống dự tính bán ra, điểm hòa vốn
+	Lưu ý: Chi phí nguyên vật liệu thường chiếm 30-35% giá bán ra sản phẩm
+2. Kế hoạch tổ chức các sự kiện, các hoạt động vui chơi giải trí:
+	Kế hoạch các chương trình giải trí 
+	Kế hoạch Happy Hour
+	Kế hoạch sự kiện
+C. LẬP LỊCH TRÌNH PHỤC VỤ:
+	- Chuẩn bị quầy bar
+	- Chuẩn bị nguyên vật liệu và bán thành phẩm
+	- Chuẩn bị dụng cụ
+	- Đặt dụng cụ và đón khách
+	- Nhận yêu cầu của khách, pha chế đồ uống và chuẩn bị món ăn theo yêu cầu
+	- Phục vụ khách ăn uống
+	- Thanh toán và tiễn khách
+	- Thu dọn
+D. LẬP KẾ HOẠCH CƠ SỞ VẬT CHẤT
+	Kế hoạch bố trí mặt bằng và trang thiết bị dụng cụ
+	Kế hoạch hàng hóa, bán thành phẩm, nguyên vật liệu pha chế và dụng cụ
+	Kế hoạch đầu tư vào hệ thống quản lý bán hàng
+E. LẬP HOẠCH VỀ LAO ĐỘNG
+	Lao động chủ yếu tại khu vực bar gồm những người quản lý, giám sát, nhân viên pha chế và nhân viên phục vụ, ngoài ra còn có nhân viên phụ bar
+	Kế hoạch bố trí lao động phải hợp lý, đúng người, đúng việc, đúng thời điểm theo kế hoạch phục vụ để đáp ứng yêu cầu phục vụ thường xuyên, ngày cao điểm cuối tuần, giờ cao điểm 16h00 đến 22h00 mỗi ngày
+	Phân công nhiệm vụ cụ thể, rõ rang, phù hợp cho từng nhân viên đảm bảo các nhân viên làm việc ăn ý cùng nhau
+GIÁM SÁT HOAT ĐỘNG PHỤC VỤ TẠI KV BAR
+A. GIÁM SÁT PHA CHẾ ĐỒ UỐNG
+	- Kiểm soát việc chuẩn bị và sắp xếp quầy bar
+	- Kiểm tra tình trạng, chất lượng và vệ sinh các thiết bị, máy chuyên dụng và dụng cụ pha ché, trang trí
+	- Kiểm soát số lượng và chất lượng các loại đồ uống có cồn và không cồn
+	- Kiểm tra những order, yêu cầu đồ uống của khách hàng
+	- Giám sát trực tiếp pha chế đồ uống
+	- Trực tiếp xử lý các sự cố trong quá trình pha chế
+B. GIÁM SÁT QUY TRÌNH PHỤC VỤ ĐỒ UỐNG
+	- Kiểm tra lịch đặt bàn liên tục để sẵn sàng chuẩn bị phục vụ tốt nhất
+	- Giám sát quá trình đón tiếp đưa khách vào bàn, giới thiệu menu đồ uống
+	- Giám sát nhân viên phục vụ theo đúng quy trình, đúng tiêu chuẩn
+	- Kiểm soát quy trình thanh toán, tình hình thu chi hàng ngày
+	- Kiểm soát thất thoát từ nhân viên
+	- Kiểm tra các hoạt động dọn dẹp của nhân viên
+Câu 3: Phân tích các bước lập kế hoạch và giám sát của bộ phận Tiệc?
+LẬP KẾ HOẠCH KHU VỰC TIỆC
+A. DỰ BÁO NHU CẦU DỊCH VỤ TIỆC
+	Căn cứ: 
+	- Lượng khách lưu trú
+	- Sự kiện địa phương
+	- Tính mùa vụ
+	- Xu hướng ẩm thực
+	- Hợp đồng tiệc
+	- Hình thức tiệc
+	Quản lý bộ phận tiệc chủ động lên kế hoạch chuẩn bị phục vụ hoặc đưa ra các chính sách, gói tiệc thu hút khách hàng
+
+B. NHẬN ĐẶT TIỆC
+	Nhận yêu cầu của khách hàng: 
+	- Người thực hiện: Nhân viên lễ tân, nhân viên bán hàng (Sales and Marketing)
+	- Thông tin: Loại hình tiệc + mục đích + số lượng + đối tượng + thành phần khách tham gia và thông tin về khách quan trọng + thời gian + địa điểm + thực đơn + các dịch vụ đi kèm + các yêu cầu đặc biệt + tên + địa chỉ của người đặt tiệc + giá bình quân/khách + khả năng thanh toán của khách hàng + các yêu cầu khác
+C. GIỚI THIỆU, TƯ VẤN VÀ THỐNG NHẤT SƠ BỘ VỀ DỊCH VỤ TIỆC
+	Nhân viên thực hiện: Người phụ trách (Trợ lý trưởng bộ phận tiệc)
+	- Giới thiệu dịch vụ: Thông tin chung về khả năng cung cấp dịch vụ tiệc, tính chuyên nghiệp và sự thành công về dịch vụ tiệc, thực đơn và đặc trưng về hương vị món ăn, chính sách giá, quang cảnh nơi tổ chức và điều kiện phục vụ tiệc
+	- Tư vấn khách lựa chọn dịch vụ: Tư vấn về giá, thực đơn, phương án cung cấp món ăn, thức uống, đối tác cung cấp thực phẩm
+	- Thống nhất sơ bộ về dịch vụ: Chủ dề, lựa chọn thực đơn, tình trạng hầu cận, chi phí dự tính và đàm phán dịch vụ
+	- Khẳng định đặt tiêc: Thông qua phiếu đặt tiệc và hẹn ngày làm hợp đồng tiệc, đặt cọc và ấn định thời gian trả lời, thông tin lại nếu khách do dự
+D. HỢP ĐỒNG TIỆC
+	Hợp đồng tiệc là một văn bản pháp lý, trong đó quy định các điều khoản và điều kiện của hai bên thuê và cho thuê dịch vụ tiệc
+	- Nội dung của hợp đồng tiệc: 
+	1. Thông tin của bên thuê và bên cho thuê dịch vụ
+	2. Nội dung đặt tiệc: địa điểm, hình thức, dịch vụ, thực đơn, dụng cụ, bàn ghế, trang trí, an ninh,vv…
+	3. Phương thức thanh toán
+	4. Trách nhiệm các bên và điều khoản chung
+
+
+E. LẬP KẾ HOẠCH PHỤC VỤ TIỆC
+	Chương trình tiệc: 
+	1. Kế hoạch chương trình tiệc: Gồm lập kịch bản và triển khai chương trình tiệc
+	- Lập kịch bản chương trình tiệc: Nêu rõ công việc cần thực hiện và thứ tự thực hiện công việc đảm bảo nội dung chính cần được thực hiện ở mỗi công việc, phân công người phụ trách của mỗi công việc và thời gian cụ thể thực hiện chương trình tiệc
+	- Triển khai chương trình tiệc: Nhà quản lý triển khai chi tiết chương trình tiệc và tổ chức cuộc họp nhân viên, bộ phận phối hợp tổ chức để phân công, trao đổi thống nhất hoạt động
+	2. Kế hoạch tập dượt chương trình: Giám sát tiệc tổ chức tập dượt gồm các công đoạn: Đón khách, chương trình khai mạc, nội dung chương trình hấp đẫn của MC, cách phục vụ của nhân viên, các tiết mục văn nghệ, hệ thống âm thanh, ánh sáng
+	3. Ké hoạch trang trí tiệc, chuẩn bị âm thanh, ánh sáng: Trang trí phòng tiệc, trang trí bàn tiệc, lập sơ đồ bố trí tiệc
+	4. Kế hoạch dụng cụ + Kế hoạch dự phòng về cơ sở vật chất + tính toán chi phí của sự kiện
+F. KẾ HOẠCH NGUYÊN VẬT LIỆU, THỰC PHẨM
+	Phối hợp với bộ phận bếp để dự trù nguyên vật liệu, thực phẩm, bán thành phẩm, đảm bảo đủ số lượng, tính toán tỷ lệ hao hụt nguyên vật liệu và tính giá thành của các nguyên liệu, thực phẩm cần thiết
+	Tiến hành tổ chức mua nguyên vật liệu, thực phẩm, bán thành phẩm cần thiết dựa vào bảng dự trù nguyên vật liệu và thực phẩm
+	Bảo quản, dự trữ ở kho nguyên vật liệu của bộ phận bếp với cách thức bảo quản khác nhau
+G. KẾ HOẠCH VỀ LAO ĐỘNG
+	Căn cứ:
+	- Dựa vào loại hình tiệc
+	- Số lượng khách
+	- Định mức lao động
+	- Mô tả công việc và nhiệm vụ của từng vị trí
+	Lưu ý: tiệc lưu động cần bố trí nhân viên bảo vệ xe, đội ngũ nhân viên phục vụ tiệc là các nhân viên phục vụ tại bộ phận tiệc của khách sạn hoặc điều chuyển từ khu vực nhà hàng, khu vực bar của khách sạn và nhân viên part time
+	Kế hoạch phân công lao động: 
+	- Nhân lực điều hành
+	- Nhân lực phần lễ
+	- Nhân lực bếp
+	- Nhân lực phục vụ bàn tiệc
+	- Nhân lực trang trí
+	- Nhân lực thiết kế lên ý tưởng
+	- Nhân lực dọn dẹp, vệ sinh
+GIÁM SÁT HOẠT ĐỘNG PHỤC VỤ TẠI KHU VỰC TIỆC:
+	Khái niệm giám sát khu vực tiệc: “Giám sát hoạt động phục vụ tại khu vực tiệc là những hành vi quan sát, theo dõi, kiểm tra, giám sát, trao đổi, hướng dẫn và hỗ trợ để nhân viên phục vụ hoàn thành nhiệm vụ theo đúng quy trình phục vụ tiệc/hội nghị và những quy định tại khu vực tiệc”
+A. GIÁM SÁT HOẠT ĐỘNG CHUẨN BỊ PHỤC VỤ TIỆC
+	1. Giám sát trang trí tiệc: 
+	- Trang trí phòng tiệc đảm bảo đúng nguyên tắc
+	- Giám sát các nhóm trang trí bàn tiệc với nội dung công việc cụ thể, rõ ràng, phù hợp, đảm bảo đủ số lượng và trình độ tay nghề
+	- Xếp chỗ ngồi theo sơ đồ đã thống nhất với chủ tiệc
+	2. Giám sát chuẩn bị trước giờ phục vụ:
+	- Nhà quản lý giám sát việc thực hiện đồng phục và đầu tóc của các nhân viên theo đúng tiêu chuẩn, vệ sinh phòng tiệc và khu vực xung quanh, chuẩn bị các trang thiết bị, dụng cụ đầy đủ, đồng bộ, vệ sinh, đảm bảo chất lượng, sắp xếp bàn ghế theo sơ đồ, đảm bảo nhanh gọn đẹp, khách ngồi dễ quan sát sân khấu
+	- Giám sát setup bàn tiệc theo đúng loại hình tiệc và yêu cầu của khách, đảm bảo đầy đủ dụng cụ, bày đúng quy cách, đảm bảo vệ sinh
+	3. Kiểm tra hoạt động chuẩn bị phục vụ tiệc: 
+	- Kiểm tra bài trí sắp xếp phòng tiệc gọn gang, sạch sẽ, đảm bảo về khoảng cách
+	- Kiểm tra tình trạng bàn ghế, số lượng ghế, áo ghế, khăn trải bàn
+	- Kiểm tra số lượng và chủng loại các dụng cụ ăn uống
+	- Kiểm tra khu vực để dụng cụ dự trữ
+	- Kiểm tra sân khấu, các trang thiết bị âm thanh, ánh sáng
+	- Kiểm tra số lượng món ăn, đồ uống
+	- Kiểm tra số lượng nhân viên, đảm bảo đúng giờ tác phong diện mạo đồng phục
+B. GIÁM SÁT HOẠT ĐỘNG PHỤC VỤ TIỆC
+	Giám sát tất cả các dịch vụ theo trình tự xem việc nhân viên phục vụ đúng quy trình, đúng chuẩn mực giao tiếp
+	Giám sát, điều phối công việc giữa bộ phận bếp và tiệc; giữ liên lạc với đồng nghiệp, nhân viên và khách hàng
+	Đảm bảo tất cả các thỏa thuận được dàn xếp phù hợp với quy định của khách sạn
+	Chủ động giải quyết các vấn đề phát sinh trong quá trình tổ chức tiệc
+C. GIÁM SÁT HOẠT ĐỘNG SAU TIỆC: 
+	Giám sát các hoạt động kết thúc sự kienj và dọn dẹp sau khi sự kiện kết thúc
+	Thực hiện các báo cáo kiểm kê cơ sở vật chất, dụng cụ ăn uống, so sánh số lượng dụng cụ ăn uống, trang thiết bị với kế hoạch lúc đầu
+	Giám sát, hỗ trợ nhân viên thu ngân thực hiện thanh toán theo hợp đồng tiệc hoặc thêm các khoản bổ sung
+	Đánh giá chất lượng phục vụ tiệc dựa theo những phản hồi trực tiếp của khách hàng
+	Tổ chức họp với đồng nghiệp và nhân viên sau sự kiện để đánh giá tiệc và cách cải thiện công tác tổ chức sự kiện
+	Kiểm tra báo cáo doanh thu và báo cáo ngân sách sau tiệc
+	
+

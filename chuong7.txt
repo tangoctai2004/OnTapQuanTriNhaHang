@@ -1,0 +1,113 @@
+ĐỀ CƯƠNG QUẢN TRỊ NHÀ HÀNG CHƯƠNG 7
+Câu 1: Nêu khái niệm và điều kiện áp dụng quản trị doanh thu nhà hàng?
+	Khái niệm quản trị doanh thu nhà hàng: “Quản trị doanh thu nhà hàng là một công việc làm về hoạch định chiến lược trong nhà hàng hướng đến việc bán đúng chỗ ngồi trong nhà hàng đến đúng khách hàng với đúng giá và đúng thời quan qua đúng kênh nhằm tối ưu hóa doanh thu và lợi nhuận cho nhà hàng”
+	Mục tiêu: 
+	Tối đa hóa lợi nhuận bán hàng
+	Mang đến giải pháp cho vấn đề cung và cầu
+	Nhằm phục vụ nhu cầu tối đa của khách trong thời gian cao điểm và thấp điểm
+	Điều kiện áp dụng quản lý doanh thu
+	- Lượng cung sản phẩm, dịch vụ có định, nhu cầu không cố định
+	- Sản phẩm, dịch vụ được đặt mua trước
+	- Sản phẩm dịch vụ không thể lưu kho
+	- Chi phí cố định cao, chi phí biến đổi thấp
+	- Nhu cầu thay đổi theo thời gian
+	- Sản phẩm, dịch vụ được bán với một hệ thống giá khác nhau
+Câu 2: Phân tích nội dung quản trị doanh thu nhà hàng?
+A. QUẢN TRỊ NĂNG LỰC CỦA NHÀ HÀNG
+	- Tối đa hóa sức chứa phục vụ khách: Bố trí số lượng bàn ghế phù hợp và tìm cách lấp đầy mọi bàn trống hiện có trong nhà hàng
+	Kết hợp các loại bàn để phù hợp với số lượng khách khác nhau
+	Số lượng bàn loại a = Số lượng khách/Sức chứa của loại bàn a
+	- Quản lý khách hủy đặt bàn: Quy định về số tiền đặt cọc hoặc gọi điện thoại để xác nhận lại việc đặt bàn
+	- Chính sách nhận đặt chỗ vượt trội
+
+B. QUẢN TRỊ THỜI GIAN TRẢ BÀN CỦA KHÁCH
+	Áp dụng: Thời điểm đông khách
+	Mục đích: Tăng số lượt phục vụ khách một cách hợp lý
+	Biện pháp: 
+	- Sử dụng âm nhạc, ánh sáng và màu sắc có chủ đích
+	- Khuyến khách khách hàng đặt bàn trước
+	- Đào tạo đội ngũ nhân viên chuyên nghiệp, tận tâm
+	- Dành một khu vực riêng cho những khách hàng dành thời gian để thưởng thức lâu hơn
+	- Giảm thời gian dọn bàn để quay vòng đón khách
+C. TỐI ƯU HÓA THỰC ĐƠN
+	Nhóm các món ăn theo mức độ đem lại lợi nhuận và phổ biến
+	Sắp xếp các món ăn đem lại lợi nhuận trong vùng Tam giác vàng trên menu
+	Menu ngắn gọn, đầy đủ thông tin
+	Đánh bóng những món đem lại lợi nhuận
+	Thêm sự hấp dẫn món ăn (thay đổi cách nấu, đặt tên, trình bày theo cách mới)
+D. QUẢN TRỊ DOANH THU BẰNG GIÁ
+	Chiến thuật làm giá linh hoạt theo nhu cầu thị trường: Xác định giá bán cho từng khung giờ trong ngày hoặc theo ngày trong tuần để tối ưu doanh thu
+	Áp dụng chiến thuật giá linh hoạt theo từng nhóm khách hàng
+	Định ra các mức lãi khác nhau cho từng món ăn để tạo tính hấp dẫn về giá cho nhà hàng
+E. ĐA DẠNG KÊNH PHÂN PHỐI CỦA NHÀ HÀNG
+	Kênh bán tại chỗ
+	Kênh bán giao tận nơi, mang đi
+	Kênh quảng bá trực tuyến có kèm dịch vụ đặt bàn trước
+F. ÁP DỤNG KỸ THUẬT BÁN TĂNG DOANH THU
+	Bán nâng cấp
+	Bán giảm cấp
+	Bán kèm thêm hoặc bán chéo
+	Các giải pháp khác (tích điểm, minigames)
+Câu 3: Nêu khái niệm và nội dung của kiểm soát chi phí? 
+	Khái niệm kiểm soát chi phí: “Là so sánh chi phí thực tế với dự toán chi phí theo định mức và chi phí cùng kỳ trước đó xem có phù hợp và trùng với quy định định mức không”
+	Mục đích: 
+	Thông báo cho nhân viên biết để họ hiểu được sự cần thiết phải kiểm soát chi phí
+	Khen ngợi những sáng kiến cắt giảm chi phí và kêu gọi nhân viên đưa ra các giải pháp cắt giảm chi phí
+A. KIỂM SOÁT MUA HÀNG
+	Kiểm soát mua hàng là những hoạt động nhằm thiết lập một hệ thống mua hàng hiệu quả, tại đó các chứng từ được sử dụng và thanh toán một cách hợp lệ
+	- Lệnh mua phải khớp với phiếu giao hàng và hóa đơn
+	- Bất kỳ sự không nhất quán nào đều phải được ghi lại và theo dõi
+	- Lệnh mua và phiếu giao hàng luôn có đầy đủ chữ ký
+	- Hàng hóa mỗi khi được kiểm tra cần phải được ghi lại thông tin vào: Báo cáo nhận hàng/Số hàng nhận + Thẻ lưu kho
+	- Thường xuyên kiểm tra, đối chiếu hàng hóa yêu cầu mua và hàng hóa lưu kho hàng tháng
+B. KIỂM SOÁT CHI PHÍ NHÂN CÔNG
+	Kiểm soát chi phí nhân công là những hoạt động nhằm để kiểm soát và chỉnh sửa kế hoạch nhân sự và từ đó tính được chi phí nhân công
+	Cần xác định: 
+	- Quy trình các bước
+	- Thời gian cần thiết hoàn tất công việc
+	- Bản mô tả công việc
+	- Trình độ nhân viên được tính toán để đánh giá năng suất lao động và kiểm soát chi phí nhân công biến đổi (ví dụ: nhân viên lành nghề sẽ làm việc nhanh hơn, giảm chi phí nhân công trên mỗi đơn vị sản phẩm/dịch vụ).
+	- Xác định số công/nhân viên hoặc số nhân viên/ngày
+	- Khi năng suất giảm thì chi phí nhân công sẽ tăng lên
+C. KIỂM SOÁT CHI PHÍ ĐIỆN, NƯỚC
+	Kiểm soát chi phí điện, nước là những hoạt động nhằm để kiểm soát và chỉnh sửa đảm bảo tiết kiệm và hiệu quả
+	Chi phí điện, nước không quá 5%
+Nguyên nhân chi phí
+Biện pháp tiết kiệm
+1. Ý thức nhân viên kém
+1. Quy định thời gian bật tắt các thiết bị điện
+2. Trình độ nhân viên hạn chế
+2. Tuyên truyền nhân viên có ý thức tiết kiệm
+3. Quy trình chưa hợp lý
+3. Cải tiến quy trình hiệu quả
+4. Quản lý kém
+4. Thay đổi phương pháp quản lý
+5. Giám sát không thường xuyên
+5. Tăng cường giám sát
+
+D. KIỂM SOÁT CHI PHÍ MÓN ĂN/ĐỒ UỐNG
+	Kiểm soát chi phí ăn uống là những hoạt động để kiểm soát chặt chẽ những điểm khác biệt tỉ lệ chi phí thực tế so với dự toán và kỳ trước
+	Nếu tỷ lệ % của chi phí quá cao cần phải kiểm tra và thắt chặt việc kiểm soát
+	1. Tính tổng chi phí và chi phí cho từng khẩu phần
+	a. Căn cứ chế biến tiêu chuẩn: 
+	- Các nguyên liệu đầu vào
+	- Khối lượng của mỗi khẩu phần
+	- Giá cả theo khối lượng
+	- Chất lượng nguyên vật liệu đầu vào
+	- Phương pháp chế biến
+	b. Sử dụng công thức tiêu chuẩn để tính tổng chi phí và chi phí của từng khẩu phần
+	c. Chi phí biến đổi theo khẩu phần là chi phí cho từng món ăn/đồ uống
+	2. Xác định tổng giá vốn theo kinh phí: 
+	Cộng tất cả các chi phí theo khẩu phần
+	3. Xác định giá bán của sản phẩm: 
+	- Cộng tổng lợi nhuận cận biên (để bù đắp cho các chi phí cố định của bộ phận)
+	Tổng lợi nhuận cận biên = Tổng chi phí theo kinh phí x 2,5-3,5
+	- Mục tiêu của lợi nhuận gộp có thể thay đổi phụ thuộc vào chi phí nguyên liệu đầu vào và nhu cầu xác định giá bán thực tế
+E. NHẬN DIỆN CÁC YẾU TỐ ẢNH HƯỞNG ĐẾN CHI PHÍ
+	•	Nhầm lẫn sai sót trong pha chế, chế biến và phục vụ 
+	•	Nhập hàng quá nhiều mà không lượng trước khả năng sử dụng
+	•	Không kiểm soát được thất thoát nguyên vật liệu
+	•	Bất hợp lý thời gian khởi động thiết bị điện
+	•	Thuê quá nhiều nhân viên
+	•	Các nhà cung cấp không cung cấp đúng những gì đã đặt
+	•	Quản lý chất lượng kém cũng làm tăng chi phí của nhà hàng
